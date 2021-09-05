@@ -6,7 +6,7 @@
         margin-bottom: $gutter-vertical;
     }
     
-    @include clearfix;
+    //@include clearfix;
 
     [class^="col-"] {
         float: left;
